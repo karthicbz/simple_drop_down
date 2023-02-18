@@ -1,6 +1,6 @@
 # Simple dropdown
 
-![](menu_example.gif)
+![gif showing menu in action](https://media.giphy.com/media/GbWqa75uKBG0g9raMq/giphy.gif)
 
 You can easily create a dropdown menu for your html project with one line
 
@@ -16,3 +16,5 @@ while will return a ```div``` element
 </div>
 ```
 you can use css to style the menu whichever style you like.
+
+you can install it from npm ```npm i @pkarthicbz/simple-drop-down```
