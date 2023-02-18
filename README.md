@@ -1,6 +1,6 @@
 # Simple dropdown
 
-![](./menu_example.gif)
+![](menu_example.gif)
 
 You can easily create a dropdown menu for your html project with one line
 
