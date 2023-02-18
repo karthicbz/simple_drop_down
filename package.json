@@ -1,0 +1,11 @@
+{
+  "name": "@pkarthicbz/simple-drop-down",
+  "version": "1.0.7",
+  "description": "returns a div element with text items which you can style it.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "karthicbz",
+  "license": "ISC"
+}
